@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rajrsyj.cn/sitemap.xml
